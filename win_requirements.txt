@@ -1,0 +1,9 @@
+# pip install -r win_requirements.txt
+
+# -------------network connections-----------
+websocket-client == 1.0.1
+requests == 2.25.1
+
+# -------------recording ------------
+SpeechRecognition == 3.8.1
+PyAudio == 0.2.11

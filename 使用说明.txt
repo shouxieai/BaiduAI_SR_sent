@@ -1,0 +1,10 @@
+文件内容 :
+1. win_requirements.txt : windows环境文件, windows用户使用以下命令一键安装所需环境
+pip install -r requirements.txt
+注意: mac用户环境安装请参考: mac_requirements.txt
+
+2. mac_requirement : mac用户环境安装
+
+3. 百度官方文档.zip : 百度AI 语音识别python代码
+
+4. run_百度_语音识别_情感分析.py : 本人修改后的 语音识别+情感分析代码

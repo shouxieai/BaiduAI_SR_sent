@@ -1,0 +1,7 @@
+# 依次执行命令: /bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
+brew install portaudio
+pip3 install pyaudio
+pip install websocket-client == 1.0.1
+pip install requests == 2.25.1
+pip install SpeechRecognition == 3.8.1
+pip install PyAudio == 0.2.11
