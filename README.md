@@ -1,7 +1,8 @@
 # BaiduAI_SR_sent
 ## 手写AI出品
 ## B站视频讲解地址
-https://space.bilibili.com/1413433465/
+https://www.bilibili.com/video/BV15o4y1Q7wP?spm_id_from=333.999.0.0
+
 为了快速实现项目需求和测试功能，我们可以选择各大公司AI实验室提供的API接口，来完成高质量的应用，快速产生效果。本次课程以百度NLP开放API为例，实现语音识别和情感分析，类似百度提供了大量可用API，便于平时面临具体问题时候的一个选项。
 
 欢迎进入手写AI交流, 有问题随时交流!
